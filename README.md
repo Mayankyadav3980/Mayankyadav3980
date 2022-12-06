@@ -23,7 +23,7 @@ and making engineering strategies. Quick and keen to learn new technologies and 
 - 💻 &nbsp; I am actively looking for jobs for the role of SDE.
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/mayank-yadav-93661416b/)
-- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1JmAHBVb1v1YDT4YH5ZcEZKtKzJwR2MAb/view?usp=share_link)
+- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1Oa9xWOmHFXC67ZVjP0hYZh1OvIhq7ZQn/view?usp=share_link)
 - 📚 &nbsp; I'm an avid reader.
 <br>
 
