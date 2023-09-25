@@ -1,14 +1,25 @@
 <h1 align="center">Hi 👋, I'm Mayank Yadav</h1>
-<h3 align="center">A passionate Fullstack developer from India</h3>
+<h3 align="center">A passionate Fullstack developer </h3>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
 
-- 🔭 I’m currently working on **Data Structure and Algorithms**
+### 🧐 More About Me:
 
-- 👨‍💻 All of my projects are available at [https://mayank-yadav.netlify.app/](https://mayank-yadav.netlify.app/)
+- 🤝 &nbsp;  I’m looking to collaborate on exciting projects which helps us to make our lives more efficient
+- 📫 &nbsp;  How to reach me , you can email me at ymayank501@gmail.com
+- 💻 &nbsp; I am actively looking for jobs for the role of SDE.
+- 💬 &nbsp; Ask me about anything tech related, I am happy to help;
+- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/mayank-yadav-93661416b/)
+- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1Oa9xWOmHFXC67ZVjP0hYZh1OvIhq7ZQn/view?usp=share_link)
+- 📚 &nbsp; I'm an avid reader.
+<br>
+  <p align="center">
+  <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg" style="vertical-align:top; margin:4px">
+<img  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/firebase/firebase.svg" style="vertical-align:top; margin:4px"/>
+<img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" style="vertical-align:top; margin:4px"/></p>
+ </details>
 
-- 📫 How to reach me **mayankyadav3980@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1OeJpvbq2AUr6q5QbAOlMTJO5xu9Mx1-I/view](https://drive.google.com/file/d/1OeJpvbq2AUr6q5QbAOlMTJO5xu9Mx1-I/view)
-
+<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/mayank-yadav-93661416b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mayank-yadav-93661416b/" height="30" width="40" /></a>
@@ -20,6 +31,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mayankyadav3980&show_icons=true&locale=en&layout=compact" alt="mayankyadav3980" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mayankyadav3980&show_icons=true&locale=en" alt="mayankyadav3980" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mayankyadav3980&" alt="mayankyadav3980" /></p>
+<p align="center">
+        <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
