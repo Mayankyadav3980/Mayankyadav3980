@@ -38,22 +38,17 @@ I am a versatilist and easily adapt to different hats depending on what the proj
 
 
 <br>
-
-
 <!-- ### 📊 Github Stats -->
 
 <summary><b> 📊 Github Stats</b></summary>
+<br/>
 
+
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mayankyadav3980&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ ![](https://github-readme-streak-stats.herokuapp.com/?user=Mayankyadav3980&theme=dark)
  
 <!-- [![Mayank's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mayankyadav3980&count_private=true&show_icons=true&theme=radical)](https://github.com/Mayankyadav3980) -->
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mayankyadav3980&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Mayankyadav3980&theme=onedark&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy) -->
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Mayankyadav3980&theme=dark)
-
- 
 
 <!-- <br> -->
 <!-- <p align="center">💙 If you like my projects, Give them ⭐ and Share it with friends!</p>
