@@ -19,7 +19,8 @@ I am a versatilist and easily adapt to different hats depending on what the proj
 - 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1Wk_JW5jY2NKXY2JcZgkn1mr4HfIVDEhh/view?usp=sharing)
 <br>
 
-
+<br>
+<br>
 <details>
 <summary><b>🔨 Languages and Tools:</b></summary>
  
@@ -44,13 +45,13 @@ I am a versatilist and easily adapt to different hats depending on what the proj
 <!-- ### 📊 Github Stats -->
 <details>
 <summary><b> 📊 Github Stats</b></summary>
-<div align="center">
+<div align="">
  
 <!-- [![Mayank's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mayankyadav3980&count_private=true&show_icons=true&theme=radical)](https://github.com/Mayankyadav3980) -->>
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mayankyadav3980&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Mayankyadav3980&theme=onedark&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Mayankyadav3980&theme=onedark&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy) -->
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Mayankyadav3980&theme=dark)
  </div>
