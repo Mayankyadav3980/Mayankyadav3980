@@ -1,39 +1,90 @@
-<h1 align="center">Hi 👋, I'm Mayank Yadav</h1>
-<h3 align="center">A passionate Fullstack developer </h3>
+![Profile Views](https://komarev.com/ghpvc/?username=goelabhishek694)
+ 
+## Hey 👋, I'm Mayank Yadav!
+
+<p align='center'>
+   <a href="https://www.linkedin.com/in/goelabhishek694/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/goelabhisek"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://dev.to/goelabhishek694"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/devto.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://open.spotify.com/user/31zq6pcd6stmkcmw5a7xtencs33y"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/spotify.png?raw=true"></a>&nbsp;&nbsp;
+ <a href=""><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/coffee.jpg?raw=true"></a>&nbsp;&nbsp;
+ </p>
+
+<br/>
+I am a versatilist and easily adapt to different hats depending on what the project requires. I love exploring new tech stack 👨🏻‍💻 and leveraging them to build cool stuffs 🛠️. 
+<br/>
+<br/>
+
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
 
 ### 🧐 More About Me:
 
+- 🔭 &nbsp; I’m currently working on **building an ecommerce**
 - 🤝 &nbsp;  I’m looking to collaborate on exciting projects which helps us to make our lives more efficient
-- 📫 &nbsp;  How to reach me , you can email me at mayankyadav3980@gmail.com
-- 💻 &nbsp; I am actively looking for jobs for the role of SDE.
+- 📫 &nbsp;How to reach me , you can email me at mayankyadav3980@gmail.com
+- 💻 &nbsp;I am actively looking for jobs for the role of SDE.
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
-- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/mayank-yadav-93661416b/)
-- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1OeJpvbq2AUr6q5QbAOlMTJO5xu9Mx1-I/view)
+- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/goelabhishek694/)
+- 📝 &nbsp; Checkout my [resume](<link>)
 <br>
 
+
+<details>
+<summary><b>🔨 Languages and Tools:</b></summary>
+<p align="center">
+<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
+
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/chrome.svg" alt="chrome" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/cloud.svg" alt="cloud" style="vertical-align:top; margin:4px">
+
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/aws.svg" alt="aws" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
+<!-- <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" style="vertical-align:top; margin:4px"/> -->
+  </p>
+  <p align="center">
+  <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg" style="vertical-align:top; margin:4px">
+<img  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/firebase/firebase.svg" style="vertical-align:top; margin:4px"/>
+<img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" style="vertical-align:top; margin:4px"/></p>
+ </details>
+
 <br>
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>  
- <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>         
+<!-- ### 📊 Github Stats -->
+<details>
+<summary><b> 📊 Github Stats</b></summary>
+<div align="center">
+ 
+[![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=goelabhishek694&count_private=true&show_icons=true&theme=radical)](https://github.com/goelabhishek694)
+ 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goelabhishek694&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![wakatime](https://wakatime.com/badge/user/8a7a1dec-69be-4bb1-bdc3-ec2fa0f74050.svg)](https://wakatime.com/@8a7a1dec-69be-4bb1-bdc3-ec2fa0f74050)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=goelabhishek694&theme=onedark&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=goelabhishek694&theme=dark)
+ </div>
+ </details>
+
+
+
+<!-- <br> -->
+<p align="center">💙 If you like my projects, Give them ⭐ and Share it with friends!</p>
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mayankyadav3980&show_icons=true&locale=en&layout=compact" alt="mayankyadav3980" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mayankyadav3980&" alt="mayankyadav3980" /></p>
+<!-- <h1 align='center'>⚡️<i></i>⚡️</h1> -->
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
+        <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
+<!-- ### 🛠️ My Projects
+
+<a href="" target="_blank"> <img alt="passwordkeeper" src="./projects/passwordkeeper.svg" height="68" align="left"> </a> -->
+
+
+
